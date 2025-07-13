@@ -6,6 +6,27 @@ This project is an end-to-end **business analytics case study** on customer chur
 
 ## 🗂️ Project Structure
 
+```
+
+customer-churn-analysis/
+│
+├── data/
+│   └── cleaned\_telco\_churn.csv
+│
+├── notebook/
+│   └── customer\_churn\_analysis.ipynb
+│
+├── dashboard/
+│   └── customer\_churn\_analysis.pbix
+│   └── dashboard\_screenshot.png
+│
+├── images/
+│   └── churn\_kpi\_card.png
+│   └── filters\_example.png
+│
+├── README.md
+
+```
 
 ---
 
@@ -53,7 +74,7 @@ This project is an end-to-end **business analytics case study** on customer chur
 
 > 📷 Preview:
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+<img width="1366" height="768" alt="Dashboard Page1" src="https://github.com/user-attachments/assets/426d1b3e-88b8-4faa-b124-5f9504be18ed" />
 
 ---
 
@@ -81,11 +102,6 @@ This project is an end-to-end **business analytics case study** on customer chur
 
 I’m Abhinav Goel, an aspiring **Business Analyst** and **Data Enthusiast** exploring real-world business problems through hands-on projects.
 
-📧 [Email Me](mailto:your-email@example.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🌟 [GitHub](https://github.com/your-github)
+📧 [Email Me](mailto:abhinavgoyal925938@example.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/en-abhinav-goel/)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
