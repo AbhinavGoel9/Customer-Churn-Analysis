@@ -1,10 +1,4 @@
-Thanks for sharing your previous README, Abhinav — it’s already well-structured and professional! Let’s now **enhance it** to reflect your new work: the machine learning model, churn driver insights, and strategy simulation.
 
-Here’s your **updated README.md**:
-
----
-
-```markdown
 # 📊 Customer Churn Analysis – Telecom Sector
 
 This project is an end-to-end business analytics case study on customer churn in the telecom industry, using Python for data cleaning, Power BI for dashboard creation, and machine learning (Random Forest) for churn prediction and strategy simulation. It is based on the IBM Telco Customer dataset.
